@@ -1,0 +1,23 @@
+_repo: The-Tantalus-Death_61744
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rocklynne, Ross
+    alias: Rocklin, Ross Louis
+    birthdate: 1913
+    deathdate: 1988
+    gutenberg_agent_id: '34040'
+    url: http://www.gutenberg.org/2009/agents/34040
+description: ''
+gutenberg_issued: '2020-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61744'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Tantalus Death
+url: http://www.gutenberg.org/ebooks/61744
